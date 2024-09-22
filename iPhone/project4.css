@@ -1,0 +1,41 @@
+article{
+    height: 90px;
+    width: 100%;
+    background-color: #303030;
+    align-items:center;
+    position: absolute;
+    top: 0;
+   /* margin-left: 12%;
+    margin-right: 12%;
+    */
+
+}
+a{
+    color: white;
+}
+nav{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+
+}
+div{
+    font-size: 18px;
+    color: white;
+    gap: 2px;
+
+}
+header{
+    text-align: center;
+    text size: 30%;
+}
+button{
+    background-color: blue;
+    border-radius: 100px 100px;
+}
+a1{
+    color: blue;
+}
